@@ -57,7 +57,7 @@
 
 
 <p align="center">
-  <i>I don't care  how many followers I have, Nor do I care about how many deploy my bot. I write these bot scripts to make my WhatsApp enjoyable, And to assist me with my daily tasks. What brings me happiness is ensuring all my scripts are fixed, So I can sit back, relax, watch Netflix and play konami</i>
+  <i>I don't care  how many followers I have, Nor do I care about how many deploy my bot. I write this bot scripts to make my WhatsApp enjoyable, And to assist me with my daily tasks. What brings me happiness is ensuring all my scripts are fixed, So I can sit back, relax, watch Netflix and play konami</i>
 </p>
 
   </a>
